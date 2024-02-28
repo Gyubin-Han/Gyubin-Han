@@ -1,10 +1,10 @@
 ## 한규빈(Gyubin Han)
-- 🏤전주대학교 컴퓨터공학과<br>2018.3 ~ 2024.2(졸업 예정)
+- 🏤전주대학교 컴퓨터공학과<br>2018.3 ~ 2024.2
 - 📕 멀티캠퍼스 채용연계 풀스택 개발자 취업캠프(Java) 17기<br>2023.9 ~ 2024.3
 
 ## 홈페이지 및 연락처
 - Homepage : https://gyu.be/
-- E-M@il : jju (at) gyu.be"
+- E-M@il : dev.han (at) gyu.be
 
 ## 지금까지 진행한 프로젝트
 - 음식 메뉴 및 음식점 추천 웹 어플리케이션<br>서버, DB, UI 담당 / 2021.9 ~ 2021.11<br>Source Code : https://github.com/wlsdn2749/Bootcamp
