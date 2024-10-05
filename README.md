@@ -1,11 +1,11 @@
 ## 한규빈(Gyubin Han)
-- 🏤전주대학교 컴퓨터공학과<br>2018.3 ~ 2024.2
-- 📕NHN Academy 7기<br>2024.7 ~
+- 🏤전주대학교 컴퓨터공학과<br>Dept. of Computer Science and Engineering, Jeonju Univ.<br>2018.3 ~ 2024.2
+- 📕NHN Academy 7기<br>2024.7 ~ 2024.12 (in Progress)
 
 ## Skills Stack
 |  | Skills |
 | --- | --- |
-| Languages | <img alt="Java" src ="https://img.shields.io/badge/Java-red.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="C/C++" src ="https://img.shields.io/badge/C/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=white"/> |
+| Language | <img alt="Java" src ="https://img.shields.io/badge/Java-red.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="C/C++" src ="https://img.shields.io/badge/C/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=white"/> |
 | Framework, Library | <img alt="Spring Framework" src ="https://img.shields.io/badge/Spring-6db33f.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6db33f.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis-black.svg?&style=for-the-badge&logo=&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> |
 | Environment | <img alt="Linux" src ="https://img.shields.io/badge/Linux-fcc624.svg?&style=for-the-badge&logo=linux&logoColor=black"/> <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078d4.svg?&style=for-the-badge&logo=windows10&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> |
 
