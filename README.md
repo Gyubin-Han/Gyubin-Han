@@ -14,11 +14,11 @@
 |  | Skills |
 | --- | --- |
 | Language | <img alt="C/C++" src ="https://img.shields.io/badge/C/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> |
-| Framework, Library | <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> |
+| Framework, Library | <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Spring Security" src ="https://img.shields.io/badge/spring%20security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/> <img alt="Query DSL" src ="https://img.shields.io/badge/query dsl-0089CF.svg?&style=for-the-badge&logo=querydsl&logoColor=white"/> |
 | Environment | <img alt="Apache Tomcat" src="https://img.shields.io/badge/apache tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black"/> <img alt="Redis" src ="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/> |
 
 ## Now Learning
-<img alt="Spring Security" src ="https://img.shields.io/badge/spring%20security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/> <img alt="Query DSL" src ="https://img.shields.io/badge/query dsl-0089CF.svg?&style=for-the-badge&logo=querydsl&logoColor=white"/>
+<img alt="c#" src ="https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 ## Projects
 - URLShortener<br>영단어를 이용한 URL Shortener 웹 애플리케이션<br>개인 프로젝트 / 2024.3<br>https://sh.gyu.be<br>Source Code : https://github.com/Gyubin-Han/UrlShortener
