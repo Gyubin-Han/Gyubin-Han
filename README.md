@@ -21,7 +21,7 @@
 - URLShortener (Re-Make)<br>
 긴 원본 URL을 요약하여 단축시키는 Web Application 서비스 구축<br>
 (실제 서비스를 출시하는 것을 목표로 진행)
-  - Repository : https://github.com/Gyubin-Han/URLShortner
+  - Repository : https://github.com/Gyubin-Han/UrlShortener
 
 ## Projects
 - URLShortener<br>영단어를 이용한 URL Shortener 웹 애플리케이션<br>개인 프로젝트 / 2024.3<br>https://sh.gyu.be
