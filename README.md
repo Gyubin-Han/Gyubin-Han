@@ -31,3 +31,4 @@
 ## Contact as
 - Homepage : https://gyu.be/
 - E-M@il : dev.han (at) gyu.be
+- Linked-In : https://linkedin.com/in/Gyubin-Han
