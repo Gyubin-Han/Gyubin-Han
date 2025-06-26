@@ -27,7 +27,7 @@
 - URLShortener (Re-Make)<br>긴 URL을 짧은 형태(도메인 포함, 약 12자 내외)로 줄여주는 웹 애플리케이션<br>개인 프로젝트 / 2025.6<br>Source Code : https://github.com/Gyubin-Han/UrlShortener
 - 55G.COM<br>도서 쇼핑몰 프로젝트<br>팀 프로젝트(도서 분야 담당) / 2024.10 ~ 2024.12
 - Whisper Auto Subtitle Generator<br>동영상 자동 번역 및 자막 생성 웹 애플리케이션<br>팀 프로젝트(웹 개발 담당) / 2024.3 ~ 2024.4<br>Source Code : https://github.com/Gyubin-Han/Whisper-Auto-Subtitle-Generator-Eng2kor
-- RCMenu<br>음식 메뉴 및 음식점 추천 웹 어플리케이션<br>서버, 프론트엔드 담당 / 2021.9 ~ 2021.11<br>Source Code : https://github.com/wlsdn2749/Bootcamp
+- RCMenu<br>음식 메뉴 및 음식점 추천 웹 어플리케이션<br>팀 프로젝트(서버, 프론트엔드 담당) / 2021.9 ~ 2021.11<br>Source Code : https://github.com/wlsdn2749/Bootcamp
 
 ## Contact as
 - Homepage : https://gyu.be/
