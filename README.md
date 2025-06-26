@@ -1,4 +1,4 @@
-## 한규빈(Gyubin Han)
+## 한규빈 (Gyubin Han)
 - 🏤전주대학교 컴퓨터공학과<br>Dept. of Computer Science and Engineering, Jeonju Univ.<br>2018.3 ~ 2024.2
 - 📕NHN 아카데미 - 백엔드 트랙 7기<br>NHN Academy - Back-End Track 7th<br>2024.7 ~ 2024.12
 
